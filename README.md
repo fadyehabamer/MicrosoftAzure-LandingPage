@@ -1,2 +1,2 @@
-# Microsoft-Azure
- Using html5 & Css3
+# Microsoft Azure Landing Page
+> using html5 & Css3 & media query
